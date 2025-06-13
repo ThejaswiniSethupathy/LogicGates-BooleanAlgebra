@@ -1,0 +1,17 @@
+--------Definition--------
+
+A NOR gate gives the opposite of the OR gate. It outputs 1 only if all inputs are 0.
+
+--------Properties--------
+
+Universal gate like NAND.
+
+Inverts the output of an OR gate.
+
+--------Applications--------
+
+Common in control circuits.
+
+Used in arithmetic logic units (ALUs).
+
+Can form flip-flops, timers, and oscillators.
