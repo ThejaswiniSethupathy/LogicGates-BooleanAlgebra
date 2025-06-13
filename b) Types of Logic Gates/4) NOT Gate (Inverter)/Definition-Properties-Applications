@@ -1,0 +1,20 @@
+--------Definition--------
+
+The NOT gate has only one input and it inverts the input: if input is 1, output is 0, and vice versa.
+
+--------Properties--------
+
+Only gate with one input.
+
+Repeated NOT operations return the original value:
+
+NOT(NOT A) = A
+
+--------Applications--------
+
+Used in control logic (like turning off a function if a condition is met).
+
+Acts as a signal inverter.
+
+Common in buffers, memory, and timing circuits.
+
