@@ -1,0 +1,17 @@
+---------Definition---------
+
+The XNOR gate gives 1 if inputs are the same. It is the inverse of XOR.
+
+--------Properties--------
+
+A XNOR B = NOT(A XOR B)
+
+Output is 1 when the number of high inputs is even.
+
+--------Applications--------
+
+Used in equality comparators.
+
+Error detection and correction circuits.
+
+Logic in biometric systems, authentication logic, etc.
