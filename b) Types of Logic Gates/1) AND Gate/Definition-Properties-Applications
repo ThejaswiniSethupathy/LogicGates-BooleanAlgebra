@@ -1,0 +1,22 @@
+-------Definition:---------
+
+The AND gate outputs 1 (true) only if all inputs are 1. It mimics the logical operation A AND B.
+
+--------Properties:--------
+  
+Output is high only when all inputs are high.
+
+It is commutative and associative:
+
+A AND B = B AND A
+
+(A AND B) AND C = A AND (B AND C)
+
+--------Applications:---------
+
+Used in security systems (e.g., both doors must be closed to trigger an alarm).
+
+Bitwise operations in programming.
+
+Logic-based decision making in microprocessors.
+
