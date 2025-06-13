@@ -1,0 +1,17 @@
+--------Definition--------
+
+The XOR gate outputs 1 if the inputs are different.
+
+--------Properties--------
+
+A XOR B = (A AND NOT B) OR (NOT A AND B)
+
+Output is 1 when the number of high inputs is odd.
+
+--------Applications--------
+
+Binary addition (half adder and full adder).
+
+Parity checkers and data comparison circuits.
+
+Toggles in switches and game logic.
