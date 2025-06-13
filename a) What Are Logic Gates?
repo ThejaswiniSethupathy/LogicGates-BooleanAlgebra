@@ -1,0 +1,21 @@
+Logic gates are the basic building blocks of digital circuits. They are electronic components that perform logical operations on one or more binary inputs to produce a single binary output. In simple terms, a logic gate takes in 1s and 0s (representing true and false) and gives an output based on a specific logic rule.
+
+These gates are used in everything from calculators and computers to microcontrollers and digital watches. Each type of gate follows a truth table, which lists all possible input combinations and the corresponding output.
+
+There are several basic logic gates, including:
+
+1. AND gate
+
+2.OR gate
+
+3. NOT gate
+
+4. NAND gate
+
+5. NOR gate
+
+6. XOR gate
+
+7. XNOR gate
+
+Each of these gates plays a unique role in building complex digital systems, and they all operate using principles of Boolean algebra.
