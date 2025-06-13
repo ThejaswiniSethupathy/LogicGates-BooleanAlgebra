@@ -1,0 +1,17 @@
+--------Definition--------
+
+A NAND gate gives the opposite of the AND gate. It outputs 0 only if all inputs are 1.
+
+--------Properties--------
+
+Universal gate – any logic circuit can be built using only NAND gates.
+
+Inverts the output of an AND gate.
+
+--------Applications--------
+
+Memory elements (like SR latch).
+
+Basic building block in digital ICs.
+
+Used in alarm systems, multiplexers, and switching logic.
