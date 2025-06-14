@@ -9,3 +9,84 @@ Unlike regular algebra where variables can have a wide range of values, in Boole
 0 0 (False)
 
 It’s the mathematical language behind logic gates, digital circuits, and computer operations. Every digital system — from a simple calculator to a complex processor — uses Boolean algebra to perform decisions, comparisons, and control flow.
+
+---------Boolean Laws--------
+
+Just like arithmetic algebra, Boolean algebra has laws and rules to simplify expressions. These are helpful when optimizing logic circuits.
+
+-------Identity Laws--------
+
+A + 0 = A
+
+A · 1 = A
+
+--------Null Laws---------
+
+A + 1 = 1
+
+A · 0 = 0
+
+-------Idempotent Laws-------
+
+A + A = A
+
+A · A = A
+
+-------Complement Laws--------
+
+A + A̅ = 1
+
+A · A̅ = 0
+
+---------Involution Law--------
+
+(A̅)̅ = A
+
+--------Commutative Laws-------
+
+A + B = B + A
+
+A · B = B · A
+
+--------Associative Laws---------
+
+A + (B + C) = (A + B) + C
+
+A · (B · C) = (A · B) · C
+
+----------Distributive Laws--------
+
+A · (B + C) = A·B + A·C
+
+A + (B·C) = (A + B)(A + C)
+
+---------De Morgan’s Theorems---------
+
+These are key for simplifying logic expressions using NAND and NOR gates:
+
+(A · B)̅ = A̅ + B̅
+
+(A + B)̅ = A̅ · B̅
+
+------------Applications of Boolean Algebra-----------
+
+Digital Circuit Design: Simplifying logic circuits to reduce gate count.
+
+Programming Conditions: If-else logic uses Boolean logic behind the scenes.
+
+Control Systems: Boolean logic helps in designing decision-based automation systems.
+
+Error Detection: Parity bits and checksums use Boolean operations.
+
+---------Example----------
+
+Expression: A·(B + A)
+
+Using Distributive Law:
+= A·B + A·A
+
+Using Idempotent Law:
+= A·B + A
+
+Using Absorption Law:
+= A
