@@ -1,0 +1,11 @@
+---------What is Boolean Algebra?----------
+
+Boolean Algebra is a branch of algebra that deals with binary variables and logical operations. 
+  
+Unlike regular algebra where variables can have a wide range of values, in Boolean algebra, variables can only have two values:
+
+1 1 (True)
+
+0 0 (False)
+
+It’s the mathematical language behind logic gates, digital circuits, and computer operations. Every digital system — from a simple calculator to a complex processor — uses Boolean algebra to perform decisions, comparisons, and control flow.
