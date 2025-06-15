@@ -68,6 +68,10 @@ These are key for simplifying logic expressions using NAND and NOR gates:
 
 (A + B)̅ = A̅ · B̅
 
+---------Consensus Theorem----------
+
+The Consensus Theorem is a simplification rule in Boolean algebra that allows us to eliminate redundant terms in a Boolean expression without changing its output.
+
 ------------Applications of Boolean Algebra-----------
 
 Digital Circuit Design: Simplifying logic circuits to reduce gate count.
