@@ -1,18 +1,1 @@
----------What Are Gate Equivalents?-----------
-  
-Gate equivalents refer to the alternate ways of implementing a logic gate or a logic function using a different set of basic gates — typically NAND or NOR, which are known as universal gates.
-
-In digital design, understanding gate equivalency helps:
-
-Minimize hardware cost
-
-Optimize circuits
-
-Build any circuit using a limited type of gate (especially NAND or NOR)
-
---------Universal Gates---------
-  
-NAND and NOR are called universal gates because you can build any other gate using just NANDs or just NORs.
-
-This is helpful in real-world digital circuits where manufacturing uses a fixed gate type to simplify IC design.
 
